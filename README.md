@@ -10,17 +10,22 @@ Painting Board
 ----
 
 1. Change Color
-  색 선택
+
+    색 선택
 
 2. Brush Size
-  브러시 사이즈 변경
+  
+    브러시 사이즈 변경
 
 3. Paint/Fill
-  Paint - 그림 그리기
-  Fill - 색 채우기
+  
+    Paint - 그림 그리기
+  
+    Fill - 색 채우기
 
 4. Save
-  저장
+  
+    저장
 
 
 결과물

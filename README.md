@@ -4,7 +4,7 @@ Painting Board made with VanilaJS
 Painting Board
 ==============
 
-노마드코더 - 바닐라 JA로 그림판 만들기
+노마드코더 - 바닐라 JS로 그림판 만들기
 
 기능
 ----

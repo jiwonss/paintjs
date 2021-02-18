@@ -31,3 +31,4 @@ Painting Board
 결과물
 ------
 ![paintjs 결과물](https://user-images.githubusercontent.com/72875528/108388934-7d4cc500-7252-11eb-8a0d-dbdd2f2ef6e3.PNG)
+<img src="https://user-images.githubusercontent.com/72875528/108388934-7d4cc500-7252-11eb-8a0d-dbdd2f2ef6e3.PNG" width="30%" height="40%">

@@ -1,8 +1,7 @@
-# paintjs
-Painting Board made with VanilaJS
-
-Painting Board
+paintjs(Painting Board)
 ==============
+
+Painting Board made with VanilaJS
 
 노마드코더 - 바닐라 JS로 그림판 만들기
 

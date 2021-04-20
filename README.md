@@ -1,32 +1,26 @@
-paintjs(Painting Board)
+paintjs
 ==============
+
+Nomad Coders - 바닐라 JS로 그림판 만들기
+
+Painting Board
+------------------
+
+
+<p align="center"><img src="https://user-images.githubusercontent.com/72875528/108388934-7d4cc500-7252-11eb-8a0d-dbdd2f2ef6e3.PNG" width="45%" height="55%"></p>
 
 Painting Board made with VanilaJS
 
-노마드코더 - 바닐라 JS로 그림판 만들기
 
-기능
-----
+### Painting Board Function
 
-1. Change Color
-
-    색 선택
-
-2. Brush Size
-  
-    브러시 사이즈 변경
-
-3. Paint/Fill
-  
-    Paint - 그림 그리기
-  
-    Fill - 색 채우기
-
-4. Save
-  
-    저장
+|Function|Description|
+|--|--|
+|Color|Change and select color|
+|Brush Size|Change brush size|
+|Paint/Fill|Painting mode<br>Fill mode|
+|Save|Save image|
 
 
-결과물
-------
-<img src="https://user-images.githubusercontent.com/72875528/108388934-7d4cc500-7252-11eb-8a0d-dbdd2f2ef6e3.PNG" width="50%" height="60%">
+
+
